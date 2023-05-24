@@ -1,0 +1,12 @@
+{
+    "timedelta": 8,
+    "sync_interval": 43200,
+    "telegram_bot_token": "",
+    "telegram_channels": {
+        "felicia.pub": {
+            "id": "@felicia_pub",
+            "rss_feed_url": "https://feli.cf/atom.xml"
+        }
+    },
+    "rss_feed_url": "https://feli.cf/atom.xml"
+}
